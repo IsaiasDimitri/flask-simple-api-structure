@@ -1,0 +1,7 @@
+.env
+.vscode
+htmlcov
+*.egg-info
+.pytest*
+.coverage
+.flaskenv
