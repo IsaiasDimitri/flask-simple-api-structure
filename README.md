@@ -8,3 +8,4 @@ My goal is just have the boilerplate of adding a API functionality on my aplicat
 python -m venv .env
 source .env/bin/activate
 make install # on dir that holds Makefile
+FLAsK_APP=simple_api/app flask run # told flask where is our app
